@@ -1,0 +1,21 @@
+{
+  "name": "monokai-one-dark",
+  "displayName": "monokai one dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monokai one dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai one dark-color-theme.json"
+      }
+    ]
+  }
+}
